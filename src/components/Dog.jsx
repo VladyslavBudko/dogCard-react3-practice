@@ -13,7 +13,7 @@ export const Dog = ({ dog: { url, breeds } }) => {
 
   return (
     <DogSection style={{ display: 'flex', gap: 16 }}>
-      <img src={url} width="480" alt="dog" />
+      <img src={url} width="100%" alt="dog" />
       <div>
         <p>Name: {name}</p>
         <br />
