@@ -20,6 +20,8 @@ export class App extends Component {
       this.setState({ isLoading: true });
       const dog = await fetchDogByBreed(breedId);
       this.setState({ dog });
+      console.log(dog);
+
     } catch {
       this.setState({ error: errorMessages.fetchDog });
     } finally {
