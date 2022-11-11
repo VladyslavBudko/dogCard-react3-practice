@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VladyslavBudko/dogCard-react3-practice.git/static/css/main.c3d5249d.css",
+    "main.js": "/VladyslavBudko/dogCard-react3-practice.git/static/js/main.1b77e732.js",
+    "index.html": "/VladyslavBudko/dogCard-react3-practice.git/index.html",
+    "main.c3d5249d.css.map": "/VladyslavBudko/dogCard-react3-practice.git/static/css/main.c3d5249d.css.map",
+    "main.1b77e732.js.map": "/VladyslavBudko/dogCard-react3-practice.git/static/js/main.1b77e732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d5249d.css",
+    "static/js/main.1b77e732.js"
+  ]
+}
