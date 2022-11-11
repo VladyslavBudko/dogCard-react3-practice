@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dogCard-react3-practice/static/css/main.c3d5249d.css",
-    "main.js": "/dogCard-react3-practice/static/js/main.00d97391.js",
+    "main.js": "/dogCard-react3-practice/static/js/main.cc5a5320.js",
     "index.html": "/dogCard-react3-practice/index.html",
     "main.c3d5249d.css.map": "/dogCard-react3-practice/static/css/main.c3d5249d.css.map",
-    "main.00d97391.js.map": "/dogCard-react3-practice/static/js/main.00d97391.js.map"
+    "main.cc5a5320.js.map": "/dogCard-react3-practice/static/js/main.cc5a5320.js.map"
   },
   "entrypoints": [
     "static/css/main.c3d5249d.css",
-    "static/js/main.00d97391.js"
+    "static/js/main.cc5a5320.js"
   ]
 }
