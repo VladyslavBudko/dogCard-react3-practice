@@ -35,7 +35,6 @@ export class App extends Component {
     return (
       <Layout>
         <BreedSelect onSelect={this.selectBreed} />
-        {!dog && <h1>Віберіть породу собаки зі списку вище 👆</h1>}
         {error && <ErrorMessage>{error}</ErrorMessage>}
         {isLoading && <DogSkeleton />}
         {dog && !isLoading && <Dog dog={dog} />}
